@@ -22,7 +22,8 @@ const About = () => {
     "Tailwind",
     "Figma",
     "Design de Interface",
-    "Jornada do Usuário",
+    "Discovery",
+    "Design Thinking",
   ];
 
   return (
