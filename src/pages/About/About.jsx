@@ -70,7 +70,7 @@ const About = () => {
             <li>Criação de sistemas de design escaláveis</li>
           </ul>
 
-          <h3>Minhas Habilidades:</h3>
+          <h3>Tecnologias mais utilizadas:</h3>
           <AboutSkills>
             {skills.map((skill) => (
               <SkillTag key={skill}>{skill}</SkillTag>
