@@ -19,6 +19,7 @@ const About = () => {
     "HTML/CSS",
     "Node.js",
     "TypeScript",
+    "Java",
     "Tailwind",
     "Figma",
     "Design de Interface",

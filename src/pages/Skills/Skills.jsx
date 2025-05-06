@@ -22,6 +22,7 @@ const Skills = () => {
     backend: [
       { name: "Node.js", level: 85 },
       { name: "Express", level: 80 },
+      { name: "Java", level: 70 },
       { name: "MongoDB", level: 75 },
     ],
     tools: [
