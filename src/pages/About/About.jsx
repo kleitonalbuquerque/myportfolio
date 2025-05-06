@@ -45,11 +45,6 @@ const About = () => {
             permitiram crescer como desenvolvedor.
           </AboutDescription>
           <AboutDescription>
-            Minha jornada na programação começou em 2015 e desde então tenho
-            trabalhado em diversos projetos pessoais e profissionais que me
-            permitiram crescer como desenvolvedor.
-          </AboutDescription>
-          <AboutDescription>
             Também sou<Highlight> Designer UX/UI especializado</Highlight> em
             criar experiências digitais intuitivas e
             <Highlight> desenvolvedor Front-end</Highlight> com foco em
